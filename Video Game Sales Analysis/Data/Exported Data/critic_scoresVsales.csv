@@ -1,0 +1,6 @@
+Critic_Rating_Tier,Number_of_Games,Average_Sales_per_Game
+A+ : Critically Acclaimed (90+),333,$2.83M
+B : Great Reviews (80-89),1679,$1.22M
+C : Good Reviews (70-79),2363,$0.60M
+D : Mixed Reviews (50-69),2960,$0.34M
+F : Poor Reviews (<50),802,$0.23M
