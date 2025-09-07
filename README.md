@@ -1,5 +1,7 @@
-End-to-End Analysis of Global Video Game Sales
-Project Overview
+End-to-End Analysis of Global Video Game Sales:
+
+Project Overview:
+
 This project provides an in-depth analysis of the global video game market, utilizing a dataset of over 16,000 titles from 1980 to 2016. The goal of this analysis was to identify key trends, understand market dynamics, and extract actionable insights into consumer preferences, publisher performance, and the impact of critical reception on commercial success.
 
 The entire project workflow, from data extraction and querying to final visualization, was handled using SQL for data analysis and Python for creating a visual dashboard.
