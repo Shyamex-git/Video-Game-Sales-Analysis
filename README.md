@@ -6,8 +6,7 @@ This project provides an in-depth analysis of the global video game market, util
 
 The entire project workflow, from data extraction and querying to final visualization, was handled using SQL for data analysis and Python for creating a visual dashboard.
 
-Dataset
-The dataset used for this analysis is the "Video Game Sales with Ratings" dataset, sourced from Kaggle.
+Dataset: The dataset used for this analysis is the "Video Game Sales with Ratings" dataset, sourced from Kaggle.
 
 Source: Kaggle Video Game Sales Dataset
 
